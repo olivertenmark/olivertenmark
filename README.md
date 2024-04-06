@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="pictures/GithubBanner.png">
+	<img src="pictures/Banner1.png">
 </p>
 
 ### 👨🏻‍💻 &nbsp;Om meg
