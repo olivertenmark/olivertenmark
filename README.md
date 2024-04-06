@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;Om meg
 
-💡 &nbsp; Jeg er Oliver, en student som planlegger å fullføre studiene i mai '24 med en bachelor i *Business Administration, spesialisering i Dataanalyse, tilleggskompetanse i Datavitenskap.* \
+💡 &nbsp; Jeg er Oliver, en student som planlegger å fullføre studiene i mai '24 med en bachelor i *Business Administration, spesialisering i Dataanalyse, tilleggskompetanse i Datavitenskap.* 
 
 🌱 &nbsp; Jeg er alltid ivrig etter å lære noe nytt hver eneste dag. \
 🔍 &nbsp; Nøyaktig og systematisk, med et øye for detaljer for å bevare sammenheng. \
