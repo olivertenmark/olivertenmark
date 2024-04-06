@@ -2,7 +2,7 @@
 	<img src="pictures/Banner1.png">
 </p>
 
-### 👨🏻‍💻 &nbsp;Om meg
+## 👨🏻‍💻 &nbsp;Om meg
 
 💡 &nbsp; Jeg er Oliver, en student som planlegger å fullføre studiene i mai '24 med en bachelor i *Business Administration, spesialisering i Dataanalyse, tilleggskompetanse i Datavitenskap.* 
 
@@ -11,7 +11,7 @@
 🎓 &nbsp; For tiden er jeg spesielt interessert i å lære mer om **Python** og bruken av **Python i dataanalyse**. 
 
 
-### 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; Tech Stack
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
