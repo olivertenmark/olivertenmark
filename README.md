@@ -9,7 +9,7 @@
 🎓 &nbsp;For tiden er jeg spesielt interessert i nyheter om kunstig intelligens og energibransjen.\
 ✍️ &nbsp; På fritiden liker jeg å holde på med racketsporter. Når jeg får sjansen, tar jeg gjerne lengre teltturer. Jeg er også en bilentusiast som setter pris på fart og spenning. 
 
-### 🛠 &nbsp; Teknologier jeg utforsker 
+### 🛠 &nbsp; Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
