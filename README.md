@@ -10,6 +10,7 @@
 #### 🔍 &nbsp; Nøyaktig og systematisk, med et øye for detaljer for å bevare sammenheng. 
 #### 🎓 &nbsp; For tiden er jeg spesielt interessert i å lære mer om **Python** og bruken av **Python i dataanalyse**. 
 
+&nbsp;
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -23,6 +24,8 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
  
   </p>
+  
+&nbsp;
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -34,6 +37,8 @@
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"></a>
       
   </p>
+  
+&nbsp;
 
 <h3>💻 Software and Tools</h3>
 
