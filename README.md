@@ -29,9 +29,10 @@
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"></a>
       <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"></a>
+      
   </p>
 
 <h3>💻 Software and Tools</h3>
